@@ -49,7 +49,7 @@
   <img
     align="top"
     alt="JSON"
-    width="71px"
+    width="72px"
     src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"
   >  
   <img
@@ -79,7 +79,7 @@
   <img
     align="top"
     alt="Markdown"
-    width="120px"
+    width="122px"
     src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" 
   >
   <img
