@@ -79,13 +79,13 @@
   <img
     align="top"
     alt="Markdown"
-    width="118px"
+    width="120px"
     src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" 
   >
   <img
     align="top"
     alt="GitHub Actions"
-    width="158px"
+    width="159px"
     src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" 
   >
 <img
@@ -109,7 +109,7 @@
 <img
     align="top"
     alt="Git"
-    width="70px"
+    width="69px"
     src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" 
   >
 <img
