@@ -85,13 +85,13 @@
   <img
     align="top"
     alt="GitHub Actions"
-    width="153px"
+    width="154px"
     src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" 
   >
 <img
     align="top"
     alt="Postman"
-    width="105px"
+    width="106px"
     src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" 
   >
 <img
