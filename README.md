@@ -109,13 +109,13 @@
 <img
     align="top"
     alt="Gunicorn"
-    width="112px"
+    width="114px"
     src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" 
   >
 <img
     align="top"
     alt="Git"
-    width="70px"
+    width="69px"
     src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" 
   >
 </ul>  
