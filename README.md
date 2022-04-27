@@ -25,67 +25,103 @@
   <img
     align="top"
     alt="HTML5"
-    width="89px"
+    width="90px"
     src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
   >
   <img
-       align="top"
-        alt="CSS"
-        width="78px"
-        src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+    align="top"
+    alt="CSS"
+    width="79px"
+    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
   />
-  <!--<img
-    align="center"
+  <img
+    align="top"
     alt="REST API"
-    width="100px"
-    src="https://salesforceprofs.com/wp-content/uploads/2019/12/api_rest.png#gh-dark-mode-only"
+    width="150px"
+    src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"
   />
   <img
     align="top"
     alt="Docker"
     width="100px"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"
+    src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
   >
   <img
     align="top"
     alt="JSON"
-    width="100px"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"
-  >-->  
+    width="71px"
+    src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"
+  >  
   <img
+    align="top"
     alt="Bootstrap"
-    width="123px"
+    width="120px"
     src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
   />    
   <img
     align="top"
     alt="Heroku"
-    width="100px"
+    width="96px"
     src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
   > 
   <img
     align="top"
     alt="postgreSQL"
-    width="120px"
+    width="130px"
     src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
   >
   <img
     align="top"
     alt="MSSQL"
-    width="190px"
+    width="208px"
     src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"
   >
   <img
     align="top"
     alt="Markdown"
-    width="120px"
+    width="118px"
     src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" 
   >
-
+  <img
+    align="top"
+    alt="GitHub Actions"
+    width="149px"
+    src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" 
+  >
+<img
+    align="top"
+    alt="Postman"
+    width="103px"
+    src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" 
+  >
+<img
+    align="top"
+    alt="Notion"
+    width="100px"
+    src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" 
+  >
+<img
+    align="top"
+    alt="Nginx"
+    width="90px"
+    src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
+  >
+<img
+    align="top"
+    alt="Gunicorn"
+    width="102px"
+    src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" 
+  >
+<img
+    align="top"
+    alt="Git"
+    width="61px"
+    src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" 
+  >
 </ul>  
 <hr>
 
--- -
+
 <!--
 **margoloko/margoloko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -102,21 +138,7 @@ Here are some ideas to get you started:
 -->
 
 ### Connect with me:
-[telegram]:@margoloko
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/margoloko)
 
-<ul align="left">
-  <img
-    align="center"
-    alt="insta"
-    width="105px"
-    src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" 
-  >
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/margoloko1)
 
-[instagram]:https://www.instagram.com/margoloko1 
-<ul align="left">
-  <img
-    align="center"
-    alt="insta"
-    width="120px"
-    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-  >
