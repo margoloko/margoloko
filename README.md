@@ -85,13 +85,13 @@
   <img
     align="top"
     alt="GitHub Actions"
-    width="149px"
+    width="150px"
     src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" 
   >
 <img
     align="top"
     alt="Postman"
-    width="103px"
+    width="104px"
     src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" 
   >
 <img
@@ -109,7 +109,7 @@
 <img
     align="top"
     alt="Gunicorn"
-    width="114px"
+    width="115px"
     src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" 
   >
 <img
