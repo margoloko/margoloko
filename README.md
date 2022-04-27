@@ -85,7 +85,7 @@
   <img
     align="top"
     alt="GitHub Actions"
-    width="157px"
+    width="158px"
     src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" 
   >
 <img
@@ -93,12 +93,6 @@
     alt="Postman"
     width="107px"
     src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" 
-  >
-<img
-    align="top"
-    alt="Notion"
-    width="100px"
-    src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" 
   >
 <img
     align="top"
@@ -115,8 +109,14 @@
 <img
     align="top"
     alt="Git"
-    width="69px"
+    width="70px"
     src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" 
+  >
+<img
+    align="top"
+    alt="Notion"
+    width="100px"
+    src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" 
   >
 </ul>  
 <hr>
