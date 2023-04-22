@@ -1,5 +1,5 @@
-# <p style="text-align: center;"> Hi there 👋 I’m Marina </p>
-**Python developer**
+# Hi there 👋 I’m Marina
+##**Python developer**
 ### <p style="text-align: center;"> I'm here to become a better programmer. </p>
 -- - 
 
