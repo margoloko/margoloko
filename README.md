@@ -7,6 +7,7 @@
 - ⌨️ I like to write code 
 - 💻 I love to fix computers 
 - 📄 Know about my experiences [CV](https://cloud.mail.ru/public/nyF9/S5gopHxxQ) 
+- ✉️ Reach me by email: margoloko@mail.ru
 
 -- -
 ### **Languages and tools:** 
