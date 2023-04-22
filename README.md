@@ -1,6 +1,6 @@
 # Hi there 👋 I’m Marina
-##**Python developer**
-### <p style="text-align: center;"> I'm here to become a better programmer. </p>
+## **Python developer**
+### I'm here to become a better programmer. 
 -- - 
 
 - 🌱 I’m currently learning **FastAPI** 
