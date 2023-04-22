@@ -1,118 +1,20 @@
-## Hi there 👋
-### I’m beginner python developer
-- I like to write code :keyboard:
-- I love to do sport 	:soccer:
-- I like to read books :open_book:
-- I love to fix computers :computer:
+# <p style="text-align: center;"> Hi there 👋 I’m Marina </p>
+##  <p style="text-align: center;"> **Python developer** </p> 
+### <p style="text-align: center;"> I'm here to become a better programmer. </p>
+-- - 
+
+- 🌱 I’m currently learning **FastAPI** 
+- ⌨️ I like to write code 
+- 💻 I love to fix computers 
+- 📄 Know about my experiences [CV](https://cloud.mail.ru/public/nyF9/S5gopHxxQ) 
+
 -- -
-### Languages and tools
+### **Languages and tools:** 
+Python, FastAPI, Django, Flask, SQLAlchemy, PostgreSQL, SQLite, scrapy, bs4, PyQt5, Docker, GitHub CI
 
 <!--![Python](https://img.shields.io/badge/-python-9cf)-->
 </h3>
-<ul align="center">
-  <img
-    align="top"
-    alt="Python"
-    width="100px"
-    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-  />    
-  <img
-    align="top"
-    alt="HTML5"
-    width="90px"
-    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-  >
-  <img
-    align="top"
-    alt="CSS"
-    width="79px"
-    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-  />
-  <img
-    align="top"
-    alt="REST API"
-    width="150px"
-    src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"
-  />
-  <img
-    align="top"
-    alt="Docker"
-    width="100px"
-    src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
-  >
-  <img
-    align="top"
-    alt="JSON"
-    width="72px"
-    src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"
-  >  
-  <img
-    align="top"
-    alt="Bootstrap"
-    width="120px"
-    src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
-  />    
-  <img
-    align="top"
-    alt="Heroku"
-    width="96px"
-    src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
-  > 
-  <img
-    align="top"
-    alt="postgreSQL"
-    width="130px"
-    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
-  >
-  <img
-    align="top"
-    alt="MSSQL"
-    width="208px"
-    src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"
-  >
-  <img
-    align="top"
-    alt="Markdown"
-    width="122px"
-    src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" 
-  >
-  <img
-    align="top"
-    alt="GitHub Actions"
-    width="159px"
-    src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" 
-  >
-<img
-    align="top"
-    alt="Postman"
-    width="107px"
-    src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" 
-  >
-<img
-    align="top"
-    alt="Nginx"
-    width="90px"
-    src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
-  >
-<img
-    align="top"
-    alt="Gunicorn"
-    width="115px"
-    src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" 
-  >
-<img
-    align="top"
-    alt="Git"
-    width="69px"
-    src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" 
-  >
-<img
-    align="top"
-    alt="Notion"
-    width="100px"
-    src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" 
-  >
-</ul>  
+
 <hr>
 
 
@@ -132,7 +34,8 @@ Here are some ideas to get you started:
 -->
 
 ### Connect with me:
-[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/margoloko)
+[![telegram](https://img.shields.io/badge/Telegram-informational?style=flat&logo=telegram&logoColor=white)](https://t.me/margoloko)
+[![Instagram](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=pink)](https://www.instagram.com/margoloko1)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/%D0%BC%D0%B0%D1%80%D0%B8%D0%BD%D0%B0-%D0%B1%D0%B0%D0%BB%D0%B0%D1%85%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0-6b739aa8/)
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/margoloko1)
 
