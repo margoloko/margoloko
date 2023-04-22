@@ -1,4 +1,4 @@
-# :---: - <p style="text-align: center;"> Hi there 👋 I’m Marina </p>
+# :---: <p style="text-align: center;"> Hi there 👋 I’m Marina </p>
 ##  <p style="text-align: center;"> **Python developer** </p> 
 ### <p style="text-align: center;"> I'm here to become a better programmer. </p>
 -- - 
