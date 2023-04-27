@@ -1,10 +1,15 @@
 <div id="header" align="center">
-# Hi there 👋 I’m Marina
-## **Python developer**
-### I'm here to become a better programmer. 
+  # Hi there 👋 I’m Marina
+</div>
+<div id="header" align="center">
+  ## **Python developer**
+</div>
+<div id="header" align="center">
+  ### I'm here to become a better programmer. 
+</div>
 
   
-</div>
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/%D0%BC%D0%B0%D1%80%D0%B8%D0%BD%D0%B0-%D0%B1%D0%B0%D0%BB%D0%B0%D1%85%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0-6b739aa8/">
