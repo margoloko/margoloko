@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/Habr%20career-blue?style=for-the-badge&logo=habr&logoColor=blue%22%20alt=%22Habr%20Badge"/>
   </a>
 -- - 
+
 - 🌱 I’m currently learning **FastAPI** 
 - ⌨️ I like to write code 
 - 💻 I love to fix computers 
