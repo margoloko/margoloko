@@ -1,12 +1,7 @@
-<div id="header" align="center">
+
   # Hi there 👋 I’m Marina
-</div>
-<div id="header" align="center">
   ## **Python developer**
-</div>
-<div id="header" align="center">
   ### I'm here to become a better programmer. 
-</div>
 
   
 
