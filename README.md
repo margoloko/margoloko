@@ -1,6 +1,22 @@
+<div id="header" align="center">
 # Hi there 👋 I’m Marina
 ## **Python developer**
 ### I'm here to become a better programmer. 
+
+  
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/%D0%BC%D0%B0%D1%80%D0%B8%D0%BD%D0%B0-%D0%B1%D0%B0%D0%BB%D0%B0%D1%85%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0-6b739aa8/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://novosibirsk.hh.ru/resume/7ee0c89fff01e666150039ed1f436a6f32686d">
+    <img src="https://img.shields.io/badge/hh.ru-red?style=for-the-badge&logo=hh.ru&logoColor=white%22%20alt=%22hh.ru%20Badge"/>
+  </a>
+  <a href="https://career.habr.com/margoloko">
+    <img src="https://img.shields.io/badge/Habr%20career-blue?style=for-the-badge&logo=habr&logoColor=blue%22%20alt=%22Habr%20Badge"/>
+  </a>
+</div>
 -- - 
 
 - 🌱 I’m currently learning **FastAPI** 
@@ -37,6 +53,5 @@ Here are some ideas to get you started:
 ### Connect with me:
 [![telegram](https://img.shields.io/badge/Telegram-informational?style=flat&logo=telegram&logoColor=white)](https://t.me/margoloko)
 [![Instagram](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=pink)](https://www.instagram.com/margoloko1)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/%D0%BC%D0%B0%D1%80%D0%B8%D0%BD%D0%B0-%D0%B1%D0%B0%D0%BB%D0%B0%D1%85%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0-6b739aa8/)
 
 
