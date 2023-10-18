@@ -25,6 +25,7 @@
 ### **Languages and tools:** 
 Python, FastAPI, Django, Flask, SQLAlchemy, PostgreSQL, SQLite, scrapy, bs4, PyQt5, Docker, GitHub CI/CD
 
+I am always open to new knowledge, experience and cooperation!
 <!--![Python](https://img.shields.io/badge/-python-9cf)-->
 </h3>
 
