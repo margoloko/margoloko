@@ -17,7 +17,7 @@
 -- - 
 
 - 🌱 I’m currently learning **FastAPI**
-- :rocket: I’m boosting my django knowledge
+- :rocket: I’m boosting my **django** knowledge
 - 📄 Know about my experiences [CV](https://cloud.mail.ru/public/nyF9/S5gopHxxQ) 
 - ✉️ Reach me by email: margoloko@mail.ru
 -- -
