@@ -22,7 +22,7 @@
 - ✉️ Reach me by email: margoloko@mail.ru
 -- -
 ### **Languages and tools:** 
-Python, FastAPI, Django, Flask, SQLAlchemy, PostgreSQL, SQLite, scrapy, bs4, PyQt5, Docker, Git, CI/CD
+Python, FastAPI, Django, Flask, SQLAlchemy, PostgreSQL, SQLite, scrapy, bs4, Docker, Git, CI/CD
 
 <!--![Python](https://img.shields.io/badge/-python-9cf)-->
 </h3>
