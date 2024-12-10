@@ -16,7 +16,7 @@
   
 -- - 
 
-- 🌱 I’m currently learning **Celery**
+- 🌱 I’m currently learning **Flask**
 - :rocket: I’m boosting my **django** knowledge
 - 📄 Know about my experiences [CV](https://cloud.mail.ru/public/nyF9/S5gopHxxQ) 
 - ✉️ Reach me by email: margoloko@mail.ru
